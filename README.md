@@ -1,4 +1,4 @@
-# Firebase Deploy Only Hosting : Host a Website on Firebase
+# Firebase Deploy Only Hosting : Firebase Hosting Guide
 
 The commands ***Firebase deploy --only hosting*** or ***firebase deploy hosting*** are used to deploy a website for firebase hosting. The steps involved are explained in this video.
 
