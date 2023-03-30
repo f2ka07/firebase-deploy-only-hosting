@@ -1,3 +1,6 @@
 # firebase-deploy-only-hosting
 
-https://www.youtube.com/watch?v=cdxWLVIvsJ8
+[Firebase Deploy Only Hosting ](https://www.youtube.com/watch?v=cdxWLVIvsJ8)
+
+<video src='https://www.youtube.com/watch?v=cdxWLVIvsJ8' width=180/>
+
