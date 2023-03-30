@@ -1,6 +1,7 @@
 # firebase-deploy-only-hosting
 
-[Firebase Deploy Only Hosting ](https://www.youtube.com/watch?v=cdxWLVIvsJ8)
+[![Firebase Deploy Only Hosting](https://solid-future.com/wp-content/uploads/2023/03/Firebase-Deploy-Only-Hosting.webp)]("")
 
-<video src='https://www.youtube.com/watch?v=cdxWLVIvsJ8' width=180/>
+
+[Firebase Deploy Only Hosting](https://www.youtube.com/watch?v=cdxWLVIvsJ8 "Firebase Deploy Only Hosting")
 
